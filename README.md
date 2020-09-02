@@ -18,7 +18,7 @@ and coding of cource :computer:
 [<img align="left" alt="Instagram" width="26px" src="https://image.flaticon.com/icons/svg/174/174855.svg" />][instagram]
 [<img align="left" alt="Twitter" width="26px" src="https://image.flaticon.com/icons/svg/174/174876.svg" />][twitter]
 
-[<img align="left" alt="CodeWars" width="300px" src="https://www.codewars.com/users/SweetCoderYouTube/badges/small" />][codewars]
+[<img align="left" alt="CodeWars" width="400px" src="https://www.codewars.com/users/SweetCoderYouTube/badges/large" />][codewars]
 <br />
 
 ### Skills and Tools:
