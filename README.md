@@ -18,7 +18,7 @@ and coding of cource :computer:
 [<img align="left" alt="Instagram" width="26px" src="https://image.flaticon.com/icons/svg/174/174855.svg" />][instagram]
 [<img align="left" alt="Twitter" width="26px" src="https://image.flaticon.com/icons/svg/174/174876.svg" />][twitter]
 
-[<img align="left" alt="CodeWars" width="400px" src="https://www.codewars.com/users/SweetCoderYouTube/badges/large" />][codewars]
+[<img align="left" alt="CodeWars" width="350px" src="https://www.codewars.com/users/SweetCoderYouTube/badges/large" />][codewars]
 <br />
 
 ### Skills and Tools:
@@ -32,8 +32,10 @@ and coding of cource :computer:
 [<img align="left" alt="Markdown" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" />][youtube]
 
 <br />
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][youtube]
-[<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />][youtube]
+<br />
+[<img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][youtube]
+[<img align="left" alt="PHP" width="40px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />][youtube]
+<br />
 <br />
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][youtube]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][youtube]
