@@ -1,6 +1,3 @@
-### Hello, I'm [SweetCoder][youtube] 👋
-
-
 ## I'm a fullstack web developer and YouTuber!
 
 I like
