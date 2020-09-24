@@ -17,7 +17,6 @@ and coding of cource :computer:
 [<img align="left" alt="Instagram" width="26px" src="https://image.flaticon.com/icons/svg/174/174855.svg" />][instagram]
 [<img align="left" alt="Twitter" width="26px" src="https://image.flaticon.com/icons/svg/174/174876.svg" />][twitter]
 
-[<img align="left" alt="CodeWars" width="320px" src="https://www.codewars.com/users/SweetCoderYouTube/badges/large" />][codewars]
 
 <br />
 <br />
@@ -65,17 +64,6 @@ and coding of cource :computer:
 <br />
 
 ---
-
-### Recent YouTube Videos
-
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...][youtube]
-
-
-
-
 
 [facebook]: https://fb.me/SweetCoderYouTube
 [twitter]: https://twitter.com/
