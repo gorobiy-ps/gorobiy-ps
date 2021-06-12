@@ -10,14 +10,6 @@ and coding of cource :computer:
 ---
 
 
-### You can contact me:
-
-[<img align="left" alt="YouTube" width="26px" src="https://image.flaticon.com/icons/svg/174/174883.svg" />][youtube]
-[<img align="left" alt="Facebook" width="26px" src="https://image.flaticon.com/icons/svg/174/174848.svg" />][facebook]
-[<img align="left" alt="Instagram" width="26px" src="https://image.flaticon.com/icons/svg/174/174855.svg" />][instagram]
-[<img align="left" alt="Twitter" width="26px" src="https://image.flaticon.com/icons/svg/174/174876.svg" />][twitter]
-
-
 <br />
 <br />
 
