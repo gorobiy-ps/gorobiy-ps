@@ -1,4 +1,4 @@
-## I'm a fullstack web developer and YouTuber!
+## I'm a fullstack web developer!
 
 I like
 - :beer: beer
@@ -6,8 +6,6 @@ I like
 - :metal: Rock'n'Roll
 
 and coding of cource :computer:
-
----
 
 
 <br />
